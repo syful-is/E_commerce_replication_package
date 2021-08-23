@@ -1,0 +1,28 @@
+Topic,Main Category,LDA Topic Name,LDA suggested Keywords,number_per_topic,score_mean,view_mean,FavCount_mean,AnsCount_mean,AccpAnsCount_avg,CommentCount_mean
+0,Website design features,Basic website functionalitites1,"spree, rail, model, override, work, find, class, controller, create, error",9149,1,1486,0,1,0.429337,1
+1,Website design features,Basic website functionalitites2,"variable, return, php, pass, array, shopify, object, string, function, post",4114,0,1324,0,1,0.453087,1
+2,Website design features,Customer login,"form, user, customer, woocommerce, field, registration, log, add, account, submit",4149,0,1349,0,1,0.405158,1
+3,Sales Features,Stock item configuration 1,"product, attribute, option, configurable, add, custom, import, create, simple, image",4154,1,2047,0,1,0.385652,1
+4,Sales Features,Shopping cart,"cart, add, button, woocommerce, item, product, shopping, page, remove, shop",4729,0,1654,0,1,0.400508,1
+5,Sales Features,Inventory management 1,"product, woocommerce, price, change, variation, stock, option, select, quantity, attribute",3902,0,1496,0,1,0.375192,1
+6,Website Errors,Link discrepency,"page, redirect, checkout, work, url, show, button, site, link, blank",3954,0,1391,0,1,0.364947,1
+7,Sales Features,Multiple channel integration,"store, multiple, ecommerce, website, site, commerce, create, track, currency, application",3926,1,1285,0,1,0.409832,1
+8,Payment options,Payment gateway integration 1,"payment, paypal, gateway, integration, adaptive, checkout, integrate, method, website, issue",5191,1,1160,0,1,0.36467,1
+9,Website design features,New feature integration 1,"woocommerce, custom, add, field, order, page, checkout, product, detail, admin",3779,0,1498,0,1,0.397724,1
+10,Sales Features,Purchase method,"order, email, woocommerce, send, customer, status, change, notification, place, mail",4515,0,1475,0,1,0.390919,1
+11,Payment options,Payment method,"payment, paypal, subscription, recur, transaction, button, create, amount, user, profile",4313,1,913,0,1,0.382796,0
+12,Website Errors,Module error,"error, call, find, php, function, class, message, undefined, line, give",4212,0,1776,0,1,0.390076,1
+13,Website Errors,Installation error,"server, error, site, work, installation, issue, run, install, instal, local",4289,0,1426,0,1,0.365586,1
+14,Sales Features,Stock item configuration 2,"product, woocommerce, page, category, single, display, title, shop, description, wordpress",3899,0,1651,0,1,0.4119,1
+15,Website design features,Template customization 1,"work, issue, theme, version, shopify, extension, properly, opencart, mobile, make",4120,0,1121,0,1,0.365777,1
+16,Website design features,Template customization 2,"file, template, theme, phtml, php, override, custom, block, change, xml",4055,0,1903,0,1,0.438718,1
+17,Database management,Database management 1,"database, event, update, table, time, save, datum, script, run, mysql",3611,0,1399,0,1,0.420105,1
+18,Website Errors,Web service error,"error, request, api, rest, invalid, return, access, token, response, paypal",4271,1,1324,0,1,0.366425,1
+19,Website design features,New feature integration 2,"page, add, link, block, change, menu, category, remove, custom, content",3684,0,1774,0,1,0.438382,1
+20,Sales Features,Inventory management 2,"price, woocommerce, item, total, product, cart, discount, tax, amount, rule",4021,0,1467,0,1,0.394927,1
+21,Sales Features,Stock item configuration 3,"product, page, category, show, list, display, view, add, shopify, detail",3739,0,1908,0,1,0.390746,1
+22,Payment options,Payment gateway integration 2,"payment, paypal, account, sandbox, card, integration, test, application, app, integrate",4344,1,1227,0,1,0.379374,1
+23,Database management,Database management 2,"order, table, create, add, column, customer, custom, date, product, sale",3513,0,1682,0,1,0.438372,1
+24,Sales Features,shipping method,"shipping, woocommerce, method, checkout, address, base, ship, country, field, rate",3892,0,1440,0,1,0.384635,1
+25,Sales Features,Stock item configuration 4,"category, product, woocommerce, search, filter, show, list, result, display, attribute",3840,0,1770,0,1,0.392188,1
+26,Sales Features,Stock item configuration 5,"image, product, woocommerce, change, show, upload, size, thumbnail, display, shopify",3584,0,1488,0,1,0.376953,1
